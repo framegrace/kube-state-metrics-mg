@@ -1,5 +1,11 @@
-# Overview
+# The FORK (Please do not use)
+THis is a for of kube-state-metrics but will try to implement the option to add custom labels to the resources.
+I need it for me, and I'm new to go. But will try to make the modification and keep it in sync with upstream.
 
+I'm new to github, so let's see.
+Original README from kube-state-metrics follows
+
+# Overview
 [![Build Status](https://github.com/kubernetes/kube-state-metrics/workflows/continuous-integration/badge.svg)](https://github.com/kubernetes/kube-state-metrics/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes/kube-state-metrics)](https://goreportcard.com/report/github.com/kubernetes/kube-state-metrics)
 [![Go Reference](https://pkg.go.dev/badge/github.com/kubernetes/kube-state-metrics.svg)](https://pkg.go.dev/github.com/kubernetes/kube-state-metrics)
